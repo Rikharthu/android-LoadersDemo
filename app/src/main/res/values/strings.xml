@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Loaders Demo</string>
+    <string name="tla_footer">footer</string>
+    <string name="tla_header">header</string>
+</resources>
